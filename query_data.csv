@@ -54,23 +54,26 @@
 2022-02-02,ひかりTV,www.hikaritv.net,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
 2022-02-02,ひかりTV,app.hikaritv.net,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
 2022-02-02,ひかりTV,help.hikaritv.net,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
-2022-02-02,ぷらら,www.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
-2022-02-02,ぷらら,guide.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
-2022-02-02,ぷらら,help.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
-2022-02-02,ぷらら,web1.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
 ,Australian Government,,,
 2022-02-03,LinkedIn,www.linkedin.com,,
 2022-02-03,LinkedIn,jp.linkedin.com,,
 2022-02-03,三井住友カード,www.smbc-card.com,https://www.smbc-card.com/mem/cardinfo/cardinfo4010384.jsp,https://www.antiphishing.jp/news/alert/smbccard_20220622.html
 2022-02-03,えきねっと,www.eki-net.com,https://www.eki-net.com/top/oshirase/attention/202201.pdf,https://www.antiphishing.jp/news/alert/ekinet_20220729.html
-2022-02-01,イオンカード,www.aeon.co.jp,,
+2022-02-01,イオンカード,www.aeon.co.jp,https://www.aeon.co.jp/security/anti_phishing/,https://www.antiphishing.jp/news/alert/aeoncard_20220908.html
 ,Idaho Central Credit Union,,,
 ,TD Bank,,,
-2022-02-01,American Express,www.americanexpress.com,,
-2022-02-01,NHK,www.nhk.or.jp,,
+2022-02-03,American Express,americanexpress.com,https://www.americanexpress.com/jp/security/protect-yourself/,https://www.antiphishing.jp/news/alert/american_express_20210930.html
+2022-02-03,American Express,network.americanexpress.com,https://www.americanexpress.com/jp/security/protect-yourself/,https://www.antiphishing.jp/news/alert/american_express_20210930.html
+2022-02-03,American Express,global.americanexpress.com,https://www.americanexpress.com/jp/security/protect-yourself/,https://www.antiphishing.jp/news/alert/american_express_20210930.html
+2022-02-03,American Express,online.americanexpress.com,https://www.americanexpress.com/jp/security/protect-yourself/,https://www.antiphishing.jp/news/alert/american_express_20210930.html
+2022-02-03,NHK,www.nhk.or.jp,,https://www.antiphishing.jp/news/alert/nhk_20220419.html
+2022-02-03,NHK,pid.nhk.or.jp,,https://www.antiphishing.jp/news/alert/nhk_20220419.html
 ,United Parcel Service Inc.,,,
 ,Nickel,,,
-2022-02-01,ぷらら,www.plala.or.jp,,
+2022-02-02,ぷらら,www.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
+2022-02-02,ぷらら,guide.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
+2022-02-02,ぷらら,help.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
+2022-02-02,ぷらら,web1.plala.or.jp,https://www.docomo.ne.jp/info/anti-phishing/confirmation/?icid=CRP_INFO_anti-phishing_to_CRP_INFO_anti-phishing_confirmation,https://www.antiphishing.jp/news/alert/nttdocomo_20220210.html
 2022-02-01,アルファメール,www.alpha-mail.jp,,
 2022-02-01,りそな銀行,www.resonabank.co.jp,,
 ,Wells Fargo,,,
