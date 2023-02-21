@@ -137,12 +137,16 @@
 2023/2/13,SAISON CARD,www.a-q-f.com,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
 2023/2/13,SAISON CARD,stockindex.pointunyou.jp,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
 2023/2/13,SAISON CARD,bd.saisoncard.co.jp,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
-2023/2/1,GMOあおぞらネット銀行,gmo-aozora.com,,
+2023/2/21,GMOあおぞらネット銀行,gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20220914.html
+2023/2/21,GMOあおぞらネット銀行,sso.gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20220914.html
 2023/2/1,楽天カード,www.rakuten-card.co.jp,,
-2023/2/1,三菱UFJフィナンシャルグループ,www.mufg.jp,,
-2023/2/1,楽天,www.rakuten.co.jp,,
+2023/2/21,三菱UFJフィナンシャルグループ,www.mufg.jp,https://www.cr.mufg.jp/member/notice/phishing/index.html,https://www.antiphishing.jp/news/alert/mufg_20211110.html
+2023/2/21,楽天,www.rakuten.co.jp,https://ichiba.faq.rakuten.net/detail/000010716,https://www.antiphishing.jp/news/alert/rakutencard_20221110.html
+2023/2/21,楽天,www.rakuten.ne.jp,https://ichiba.faq.rakuten.net/detail/000010716,https://www.antiphishing.jp/news/alert/rakutencard_20221110.html
+2023/2/21,楽天,item.rakuten.co.jp,https://ichiba.faq.rakuten.net/detail/000010716,https://www.antiphishing.jp/news/alert/rakutencard_20221110.html
 2023/2/1,STNet,www.stnet.co.jp,,
-2023/2/1,横浜銀行,www.boy.co.jp,,
+2023/2/21,横浜銀行,www.boy.co.jp,https://www.boy.co.jp/news/emergency/fushin_mail.html,https://www.antiphishing.jp/news/alert/_boy20151203.html
+2023/2/21,横浜銀行,www.parasol.anser.ne.jp,https://www.boy.co.jp/news/emergency/fushin_mail.html,https://www.antiphishing.jp/news/alert/_boy20151203.html
 2023/2/1,softbank,www.softbank.co.jp,,
 2023/2/1,ヨドバシカメラ,www.yodobashi.com,,
 ,Apple ID,,,
