@@ -58,7 +58,7 @@
 2023/2/3,LinkedIn,www.linkedin.com,,
 2023/2/3,LinkedIn,jp.linkedin.com,,
 2023/2/3,三井住友カード,www.smbc-card.com,https://www.smbc-card.com/mem/cardinfo/cardinfo4010384.jsp,https://www.antiphishing.jp/news/alert/smbccard_20220622.html
-2023/2/3,えきねっと,www.eki-net.com,https://www.eki-net.com/top/oshirase/attention/202201.pdf,https://www.antiphishing.jp/news/alert/ekinet_20220729.html
+2023/3/8,えきねっと,www.eki-net.com,https://www.eki-net.com/top/oshirase/attention/202201.pdf,https://www.antiphishing.jp/news/alert/ekinet_20230308.html
 2023/2/20,イオンカード,www.aeon.co.jp,https://www.aeon.co.jp/security/anti_phishing/,https://www.antiphishing.jp/news/alert/aeoncard_20230220.html
 2023/2/20,イオン銀行,www.aeonbank.co.jp,https://www.aeonbank.co.jp/security/phishing/,https://www.antiphishing.jp/news/alert/aeonbank_20230213.html
 2023/2/20,イオン銀行,ib.aeonbank.co.jp,https://www.aeonbank.co.jp/security/phishing/,https://www.antiphishing.jp/news/alert/aeonbank_20230213.html
@@ -137,8 +137,8 @@
 2023/2/13,SAISON CARD,www.a-q-f.com,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
 2023/2/13,SAISON CARD,stockindex.pointunyou.jp,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
 2023/2/13,SAISON CARD,bd.saisoncard.co.jp,https://www.saisoncard.co.jp/customer-support/security-service/phishing/,https://www.antiphishing.jp/news/alert/saisoncard_20230123.html
-2023/2/21,GMOあおぞらネット銀行,gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20220914.html
-2023/2/21,GMOあおぞらネット銀行,sso.gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20220914.html
+2023/3/7,GMOあおぞらネット銀行,gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20230307.html
+2023/3/7,GMOあおぞらネット銀行,sso.gmo-aozora.com,https://gmo-aozora.com/news/2022/20220902-02.html,https://www.antiphishing.jp/news/alert/gmoaozora_20230307.html
 2023/2/1,楽天カード,www.rakuten-card.co.jp,,
 2023/2/21,三菱UFJフィナンシャルグループ,www.mufg.jp,https://www.cr.mufg.jp/member/notice/phishing/index.html,https://www.antiphishing.jp/news/alert/mufg_20211110.html
 2023/2/21,三菱UFJ銀行,*.bk.mufg.jp,https://www.bk.mufg.jp/info/mail_chuui/index.html,https://www.antiphishing.jp/news/alert/mufg_20211110.html
@@ -148,7 +148,7 @@
 2023/2/1,STNet,www.stnet.co.jp,,
 2023/2/21,横浜銀行,www.boy.co.jp,https://www.boy.co.jp/news/emergency/fushin_mail.html,https://www.antiphishing.jp/news/alert/_boy20151203.html
 2023/2/21,横浜銀行,www.parasol.anser.ne.jp,https://www.boy.co.jp/news/emergency/fushin_mail.html,https://www.antiphishing.jp/news/alert/_boy20151203.html
-2023/2/1,softbank,www.softbank.co.jp,,
+2023/3/8,softbank,www.softbank.co.jp,https://www.softbank.jp/mobile/info/personal/news/support/20221129a/,https://www.antiphishing.jp/news/alert/softbank_20230308.html
 2023/2/1,ヨドバシカメラ,www.yodobashi.com,,
 ,Apple ID,,,
 2023/2/1,BIGLOBE,www.biglobe.ne.jp,,
